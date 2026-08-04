@@ -96,7 +96,7 @@ export const experience = [
     type: "education",
     institution: "University of Central Punjab (UCP), Lahore",
     degree: "Bachelor of Science in Data Science",
-    period: "2022 – Present",
+    period: "2023 – Present",
     details: ["7th Semester", "Relevant Coursework: Data Structures, Algorithms, Database Management, Big Data, Machine Learning"],
   },
 ];
